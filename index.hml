@@ -1,1 +1,11 @@
-<h1>Hello World!</h1>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Web Server Check</h1>
+
+<p>This page checks if a web server is responding.</p>
+
+
+</body>
+</html>
